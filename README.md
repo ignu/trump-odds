@@ -4,7 +4,7 @@
 
 Tired of refreshing fivethirtyeight.com to see the fate of our country?
 
-Don't wear our Chrome's refresh button.
+Don't wear out Chrome's refresh button.
 
 If you're on OSX 10.9+, simply:
 
