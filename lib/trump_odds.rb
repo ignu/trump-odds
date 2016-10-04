@@ -28,6 +28,8 @@ class TrumpOdds
     chance = page.css(".candidate.rep .winprob")[0].text
     new_chance = chance[0..-1].to_f
 
+    puts "There's a #{chance} chance of a Trump presidency at #{DateTime.now.strftime("%I:%M")}"
+
     return if !@@chance.nil? && new_chance == @@chance
 
     self.report(chance, @@chance.nil? ? 0 : new_chance - @@chance)
