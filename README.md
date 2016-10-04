@@ -1,6 +1,6 @@
 # TrumpOdds
 
-![alert]("https://dl.dropboxusercontent.com/s/lygb3eytvxn9gg7/Screenshot%202016-10-03%2020.29.16.png")
+![alert](https://dl.dropboxusercontent.com/s/lygb3eytvxn9gg7/Screenshot%202016-10-03%2020.29.16.png)
 
 Tired of refreshing fivethirtyeight.com to see the fate of our country?
 
