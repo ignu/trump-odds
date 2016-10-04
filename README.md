@@ -9,6 +9,7 @@ Don't wear out Chrome's refresh button.
 If you're on OSX 10.9+, simply:
 
 * `git clone https://github.com/ignu/trump-odds`
+* `cd trump-odds`
 * `bundle`
 * `rake`
 
