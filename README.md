@@ -1,11 +1,13 @@
 # TrumpOdds
 
-Tired of refreshing fivethirtyeight.com to see the fate of our country.
+Tired of refreshing fivethirtyeight.com to see the fate of our country?
 
-If you're on OSX 10.9+, simply
+Don't wear our Chrome's refresh button.
 
-`git clone https://github.com/ignu/trump-odds`
-`bundle`
-`rake`
+If you're on OSX 10.9+, simply:
 
-fivethirtyeight.com will be polled every minute, and if there are and changes in the odds you'll get an alert.
+* `git clone https://github.com/ignu/trump-odds`
+* `bundle`
+* `rake`
+
+fivethirtyeight.com will be polled every minute, and you'll be alerted if there are any changes.
